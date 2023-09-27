@@ -1,7 +1,7 @@
 # MemoryCardGame2
 
+![Screenshot 2023-09-27 172139](https://github.com/Mayank-Garg7/MemoryCardGame2/assets/113042462/57a102e6-e487-469d-bda0-24171defaab3)
 
-![Screenshot 2023-09-27 172139](https://github.com/Mayank-Garg7/MemoryCardGame2/assets/113042462/
 
 ## Description
 
