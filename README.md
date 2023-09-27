@@ -1,10 +1,12 @@
 # MemoryCardGame2
 
+
+![Screenshot 2023-09-27 172139](https://github.com/Mayank-Garg7/MemoryCardGame2/assets/113042462/
+
 ## Description
 
 The Memory Card Game is a simple web-based game that challenges your memory skills. The game involves flipping cards to match pairs of identical images. It's a fun and engaging way to exercise your memory while enjoying colorful card designs.
-
-![Screenshot 2023-09-27 172139](https://github.com/Mayank-Garg7/MemoryCardGame2/assets/113042462/51427aaf-cf85-4060-a0c7-1cf78859ecf4)
+51427aaf-cf85-4060-a0c7-1cf78859ecf4)
 
 ## How to Play
 
